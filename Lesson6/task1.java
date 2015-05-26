@@ -16,7 +16,7 @@ public class task1 {
 
 
 
-    public static class Bird {
+    private static class Bird {
 
         byte weight = 3;
         byte razmah = 1;

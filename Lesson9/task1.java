@@ -15,6 +15,18 @@ public class task1 {
       //  ss.c();
       //  int cc = ss.c;
 
+        sss sss = new sss();
+
+        sss.a();
+        int aaa = sss.a;
+
+
+       // sss.b();
+       // int bbb = sss.b;
+
+          sss.c();
+        int ccc = sss.c;
+
 
     }
 }

@@ -9,11 +9,11 @@ public class task1 {
         int aa = ss.a;
 
 
-        ss.b();
-        int bb = ss.b;
+      //  ss.b();
+       // int bb = ss.b;
 
-        ss.c();
-        int cc = ss.c;
+      //  ss.c();
+      //  int cc = ss.c;
 
 
     }

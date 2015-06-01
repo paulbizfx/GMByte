@@ -11,7 +11,7 @@ public class task1 {
     }
     static void method() {
         task1 task1 = new task1();
-        System.out.println("В переменной a хранится число " + task1.a);
+        System.out.println("Р’ РїРµСЂРµРјРµРЅРЅРѕР№ a С…СЂР°РЅРёС‚СЃСЏ С‡РёСЃР»Рѕ " + task1.a);
     }
 
 }

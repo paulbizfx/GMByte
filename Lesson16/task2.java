@@ -15,8 +15,6 @@ public class task2 {
                     " Lenght: " + dogs[i].lenght +
                     " Weigth: " + dogs[i].weigth);
         }
-
-
     }
 
     public static class dog {

@@ -63,4 +63,10 @@ Lesson 30. Классы обёртки + практика
 
 Lesson 31. Многопоточность
 
-Lesson 32. 
+Lesson 32. Synchronized
+
+Lesson 33. Синхронизированные блоки
+
+Lesson 34. Практика
+
+Lesson 35. instanceOf
